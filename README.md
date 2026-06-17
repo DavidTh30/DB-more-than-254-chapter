@@ -17,4 +17,4 @@ To run program, the folder pattern should be below
 
   - Temporary
 
-<img src="SS01.png" width="200" height="200">
+<img src="SS01.png" width="500" height="500">
