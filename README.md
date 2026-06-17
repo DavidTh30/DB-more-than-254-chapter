@@ -9,12 +9,12 @@ Temporary.zip
 
 To run program, the folder pattern should be below
 
-DB more than 254 chapter
+- DB more than 254 chapter
 
   - Data
 
   - Documents
 
-  -Temporary
+  - Temporary
 
 <img src="SS01.png" width="200" height="200">
